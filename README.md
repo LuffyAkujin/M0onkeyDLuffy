@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M0onkeyDLuffy
-- 👀 I’m interested in ... PhytonX
-- 🌱 I’m currently learning ... PhytonX
-- 💞️ I’m looking to collaborate on ... PhytonX
+- 👀 I’m interested in ... PytonX
+- 🌱 I’m currently learning ... PytonX
+- 💞️ I’m looking to collaborate on ... PytonX
 - 📫 How to reach me ... devrinokmura@gmail.com
 
 <!---
